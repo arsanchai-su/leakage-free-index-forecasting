@@ -1,0 +1,17 @@
+market,comparison,n,n_different,n_equiv2,n_equiv3,n_inconclusive,margin_range
+SET50,Frozen DL (LR) vs logistic,5,0,0,0,5,2.8-6.3
+SET50,Frozen DL (LR) vs persistence,5,0,0,0,5,4.4-5.9
+SET100,Frozen DL (LR) vs logistic,5,0,0,0,5,3.3-5.0
+SET100,Frozen DL (LR) vs persistence,5,0,0,0,5,3.5-4.7
+SPX,Frozen DL (LR) vs logistic,5,0,0,0,5,3.2-4.8
+SPX,Frozen DL (LR) vs persistence,5,0,0,0,5,2.7-4.8
+CSI300,Frozen DL (LR) vs logistic,5,1,0,0,4,4.9-8.9
+CSI300,Frozen DL (LR) vs persistence,5,0,0,0,5,4.3-6.9
+SET50,Tuned models vs logistic,8,0,0,0,8,3.2-4.5
+SET50,Tuned models vs persistence,9,0,0,0,9,4.0-5.0
+SET100,Tuned models vs logistic,8,0,0,0,8,3.1-4.1
+SET100,Tuned models vs persistence,9,0,0,0,9,3.3-5.6
+SPX,Tuned models vs logistic,8,0,0,0,8,3.2-6.0
+SPX,Tuned models vs persistence,9,0,0,0,9,4.3-7.8
+CSI300,Tuned models vs logistic,8,0,0,0,8,2.9-6.3
+CSI300,Tuned models vs persistence,9,0,0,0,9,4.9-10.5

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper."
+title: "Deep Learning Stock Index Forecasting Against Tuned Learners and Naive Baselines Under a Leakage-Free Protocol - code and results"
+authors:
+  - family-names: Sukkuea
+    given-names: Arsanchai
+    affiliation: "School of Engineering and Technology, Walailak University"
+  - family-names: Rungwallapa
+    given-names: Tanawat
+    affiliation: "Faculty of Engineering, Kasetsart University"
+  - family-names: Tharu
+    given-names: Nanda Kumar
+    affiliation: "Department of Medical Biostatistics and Community Health Sciences, Karnali Academy of Health Sciences"
+  - family-names: Akkajit
+    given-names: Pensiri
+    affiliation: "Faculty of Technology and Environment, Prince of Songkla University"
+license: MIT
+version: 1.2.0
+date-released: 2026-11-06
+keywords: [stock index forecasting, deep learning, data leakage, forecast evaluation, benchmarking, equivalence testing]
+repository-code: "https://github.com/arsanchai-su/leakage-free-index-forecasting"

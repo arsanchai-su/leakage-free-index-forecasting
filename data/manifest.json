@@ -1,0 +1,133 @@
+{
+ "retrieved": "2026-10-02",
+ "retrieval_method": "Investing.com historical-data endpoint used by the public pages, yearly requests 2012-01-01 to 2026-10-01, deduplicated by date",
+ "licence_note": "Provider terms apply; raw rows are not redistributed.",
+ "markets": {
+  "SET50": {
+   "investing_instrument_id": "41049",
+   "source": "https://www.investing.com/indices/set-50-historical-data"
+  },
+  "SET100": {
+   "investing_instrument_id": "41047",
+   "source": "https://www.investing.com/indices/set-100-historical-data"
+  },
+  "SPX": {
+   "investing_instrument_id": "166",
+   "source": "https://www.investing.com/indices/us-spx-500-historical-data"
+  },
+  "CSI300": {
+   "investing_instrument_id": "940801",
+   "source": "https://www.investing.com/indices/csi300-historical-data"
+  }
+ },
+ "files": [
+  {
+   "name": "CSI300_days.csv",
+   "sha256": "ff96bd48a448b73d6e9a6784ec43c87ec6fe6c8611b618ed2849ebe8db563d36",
+   "bytes": 226230,
+   "rows": 3583,
+   "first_date": "2012-01-04",
+   "last_date": "2026-09-30",
+   "rows_with_volume": 3583
+  },
+  {
+   "name": "CSI300_months.csv",
+   "sha256": "53c483185acf77ed4ba521bd8a4591e8174e1c5fb309f31d5e1efec01e160860",
+   "bytes": 11468,
+   "rows": 177,
+   "first_date": "2012-01-01",
+   "last_date": "2026-09-01",
+   "rows_with_volume": 177
+  },
+  {
+   "name": "CSI300_weeks.csv",
+   "sha256": "d49df984fc7c69431a7247e6be96ac4cdb6e444c0c77a292156f9e741954085d",
+   "bytes": 48142,
+   "rows": 756,
+   "first_date": "2012-01-01",
+   "last_date": "2026-09-27",
+   "rows_with_volume": 755
+  },
+  {
+   "name": "SET100_days.csv",
+   "sha256": "65aa1876492fea26f97344f4d5bbbaef16714dd2281c564be0f6c8cd8ef2f068",
+   "bytes": 242251,
+   "rows": 3591,
+   "first_date": "2012-01-04",
+   "last_date": "2026-10-01",
+   "rows_with_volume": 3591
+  },
+  {
+   "name": "SET100_months.csv",
+   "sha256": "64e056b40a06c74450a7379bc4b758692fb631f928925bb43d8f636e51c8c36a",
+   "bytes": 12248,
+   "rows": 178,
+   "first_date": "2012-01-01",
+   "last_date": "2026-10-01",
+   "rows_with_volume": 178
+  },
+  {
+   "name": "SET100_weeks.csv",
+   "sha256": "acb6daaf53762585bec8ed182bfee6289eed02f9b04bfb41034183d87f7c9d98",
+   "bytes": 52444,
+   "rows": 770,
+   "first_date": "2012-01-01",
+   "last_date": "2026-09-27",
+   "rows_with_volume": 770
+  },
+  {
+   "name": "SET50_days.csv",
+   "sha256": "fa4061703af9b721c290293f6e939d77f51e65c2d155dcad6791a3067a716d47",
+   "bytes": 228848,
+   "rows": 3591,
+   "first_date": "2012-01-04",
+   "last_date": "2026-10-01",
+   "rows_with_volume": 3591
+  },
+  {
+   "name": "SET50_months.csv",
+   "sha256": "c5b050e1cd1b1647c11b78fed63e45432978a393578112916f9364d72a44d39a",
+   "bytes": 11640,
+   "rows": 178,
+   "first_date": "2012-01-01",
+   "last_date": "2026-10-01",
+   "rows_with_volume": 178
+  },
+  {
+   "name": "SET50_weeks.csv",
+   "sha256": "da2b571522c7642b15d0f9626f5cbe5853d7ce9875684129dfc1b57089049915",
+   "bytes": 49417,
+   "rows": 770,
+   "first_date": "2012-01-01",
+   "last_date": "2026-09-27",
+   "rows_with_volume": 770
+  },
+  {
+   "name": "SPX_days.csv",
+   "sha256": "7e288e83fc5e871270c375a32aca026f9fa59c117c196b172c6b053a2d41422c",
+   "bytes": 213099,
+   "rows": 3708,
+   "first_date": "2012-01-03",
+   "last_date": "2026-10-01",
+   "rows_with_volume": 0
+  },
+  {
+   "name": "SPX_months.csv",
+   "sha256": "ebb1e56ddb4b14ca65ad12cc6e64fc114ec5964905e16283068b63e99da785da",
+   "bytes": 10262,
+   "rows": 178,
+   "first_date": "2012-01-01",
+   "last_date": "2026-10-01",
+   "rows_with_volume": 0
+  },
+  {
+   "name": "SPX_weeks.csv",
+   "sha256": "caf82e1657019116680464daf47fc73ddc34c1c8ca8e15f1cf59f6071fb7d2b8",
+   "bytes": 44264,
+   "rows": 770,
+   "first_date": "2012-01-01",
+   "last_date": "2026-09-27",
+   "rows_with_volume": 0
+  }
+ ]
+}

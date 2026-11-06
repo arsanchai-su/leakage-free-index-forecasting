@@ -1,0 +1,13 @@
+{
+ "rf_csi300_pt_p": 0.0009011670368864,
+ "rf_csi300_holm_all36": 0.0324420133279104,
+ "rf_csi300_holm_excl_set50": 0.0243315099959328,
+ "n_tuned_excl_set50": 27,
+ "frozen_min_pt_holm_by_market": {
+  "CSI300": 0.357,
+  "SET100": 1.0,
+  "SET50": 0.329,
+  "SPX": 1.0
+ },
+ "frozen_dl_lr_beats_logistic_any_excl_set50": false
+}

@@ -1,0 +1,8 @@
+# raw provider data must not be committed
+data/*.csv
+data/*.zip
+*.npy
+__pycache__/
+.ipynb_checkpoints/
+results_*.zip
+results/quick_*/
